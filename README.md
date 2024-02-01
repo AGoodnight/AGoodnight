@@ -14,7 +14,7 @@ Developing user facing software for Automobiles.
 ### Current Dives
 
 - Machine Learning, diving into the statistical engine that drives it. (Regression, Perceptrons, etc...)
-- Command Line Tooling ( Creating produciticity tools for my everyday use )
+- Command Line Tooling ( Creating productivity tools for my everyday use )
   <br/>
   <br/>
 
