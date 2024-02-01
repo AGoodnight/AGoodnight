@@ -1,16 +1,46 @@
-### Hi there 👋
+## About Me
 
-<!--
-**AGoodnight/AGoodnight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Current Work
 
-Here are some ideas to get you started:
+Developing user facing software for Automobiles.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Past Work
+
+- Graphic Design ( mostly UI and forms )
+- Flash ( old school ActionScripting )
+- Websites ( a bit of wordpress, but mostly jquery and html etc. )
+- Web Applications ( Software that runs in browsers )
+
+### Current Dives
+
+- Machine Learning, diving into the statistical engine that drives it. (Regression, Perceptrons, etc...)
+- Command Line Tooling ( Creating produciticity tools for my everyday use )
+  <br/>
+  <br/>
+
+### Stuff I've worked with that I feel confident about
+
+- Typescript
+- Angular
+- React
+- RXJS
+- Redux
+- D3js
+- Sass
+- HTML
+- Storybook
+- AWS Frontend & Mobile
+- AWS CLI & SDK
+- AWS Compute
+- AWS Databases
+- AWS Security
+- Node
+- Python
+- PostgresQL
+- NoSQL
+- GraphQL
+- Webpack
+- Docker
+- Jasmine
+- Cucumber
+- Cypress
