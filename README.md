@@ -13,7 +13,7 @@ Developing user facing software for Automobiles.
 
 ### Current Dives
 
-- Machine Learning <i>(Regression, Perceptrons, etc...)</i>
+- Linear Algebra for Machine Learning
 - Command Line Tooling <i>( Creating productivity tools for my everyday use )</i>
 - Kotlin with KTOR <i>( built a simple graphql server so far )</i>
   <br/>
