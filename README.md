@@ -50,7 +50,7 @@ Developing user facing software for Automobiles.
 - Node
 - Axios & Hapi
 - MQTT
-- Pythin
+- Python
 - PostgresQL
 - NoSQL
 - GraphQL
@@ -64,7 +64,7 @@ Developing user facing software for Automobiles.
 </pre>
 <pre>
 <b>Testing</b>
-- Storybook
+- Jest
 - Jasmine
 - Cucumber
 - Cypress
