@@ -31,10 +31,11 @@ Developing user facing software for Automobiles.
 - Cucumber
 </pre>
 
-### Stuff I've worked with that I feel confident about
+### All other tech knowledge
 
 <pre>
-<b>Web</b>
+
+<bFrontend</b>
 - Typescript
 - Angular
 - React
@@ -43,11 +44,13 @@ Developing user facing software for Automobiles.
 - D3js
 - Sass
 - HTML
-- Node
 </pre>
 <pre>
-<b>Server</b>
-- Python
+<b>Backend</b>
+- Node
+- Axios & Hapi
+- MQTT
+- Pythin
 - PostgresQL
 - NoSQL
 - GraphQL
@@ -56,7 +59,7 @@ Developing user facing software for Automobiles.
 <b>CD/CL</b>
 - Webpack
 - Docker
-- Jenkins
+- Git
 </pre>
 </pre>
 <pre>
@@ -68,7 +71,6 @@ Developing user facing software for Automobiles.
 </pre>
 <pre>
 <b>Cloud</b>
-- AWS Frontend & Mobile
 - AWS CLI & SDK
 - AWS Compute
 - AWS Databases
