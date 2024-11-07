@@ -26,7 +26,7 @@ Developing user facing software for Automobiles.
 - Python
 - GraphQL
 - PostgresQL
-- AWS Dynamo DB
+- D3js
 - AWS Lambda
 - Cucumber
 </pre>
