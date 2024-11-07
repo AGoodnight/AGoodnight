@@ -35,7 +35,7 @@ Developing user facing software for Automobiles.
 
 <pre>
 
-<bFrontend</b>
+<b>Frontend</b>
 - Typescript
 - Angular
 - React
