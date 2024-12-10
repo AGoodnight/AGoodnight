@@ -10,8 +10,6 @@ Developing user facing software for Automobiles.
 - Flash <i>( Old school ActionScripting )</i>
 - Websites <i>( HTML, CSS, Jquery, Wordpress )</i>
 - Web Applications <i>( Software that runs in browsers. ES6, Angular, React )</i>
- <br/>
-  <br/>
 
 ### Current Dives
 
