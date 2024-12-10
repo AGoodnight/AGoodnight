@@ -2,7 +2,7 @@
 
 ### Current Work
 
-Developing user facing software for Automobiles.
+- Developing user facing software for Automobiles.
 
 ### Past Work
 
