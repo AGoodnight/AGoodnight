@@ -14,7 +14,7 @@
 ### Current Dives
 
 - Practical Cryptography for server side security 
-- Google AI SDK, see https://github.com/AGoodnight/Google-AI-Scripts
+- Undestanding the fundamentals of AI <i>( Such as Neural Networks and Regression Statistical Analysis )
 
 ### Favorite things to build during self-study
 
