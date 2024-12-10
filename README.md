@@ -14,7 +14,7 @@
 ### Current Dives
 
 - Practical Cryptography for server side security 
-- Undestanding the fundamentals of AI <i>( Such as Neural Networks and Regression Statistical Analysis )
+- Undestanding the fundamentals of AI <i>( Such as Neural Networks and Regression Statistical Analysis )</i>
 
 ### Favorite things to build during self-study
 
