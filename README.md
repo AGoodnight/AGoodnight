@@ -17,15 +17,11 @@ Developing user facing software for Automobiles.
 
 - Practical Cryptography for server side security 
 - Google AI SDK, see https://github.com/AGoodnight/Google-AI-Scripts
-  <br/>
-  <br/>
 
 ### Favorite things to build during self-study
 
 - Command Line Tools <i>( Creating productivity tools for my everyday use )</i>
 - Server side API's which work in conjunction with a frontend <i>( Currently using Kotlin and/or Node )</i>
- <br/>
-  <br/>
 
 ### Favorite Stuff to work with for any application
 
