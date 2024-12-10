@@ -10,14 +10,21 @@ Developing user facing software for Automobiles.
 - Flash <i>( Old school ActionScripting )</i>
 - Websites <i>( HTML, CSS, Jquery, Wordpress )</i>
 - Web Applications <i>( Software that runs in browsers. ES6, Angular, React )</i>
+ <br/>
+  <br/>
 
 ### Current Dives
 
-- Linear Algebra for Machine Learning
-- Command Line Tooling <i>( Creating productivity tools for my everyday use )</i>
-- Kotlin with KTOR <i>( built a simple graphql server so far )</i>
+- Practical Cryptography for server side security 
 - Google AI SDK, see https://github.com/AGoodnight/Google-AI-Scripts
   <br/>
+  <br/>
+
+### Favorite things to build during self-study
+
+- Command Line Tools <i>( Creating productivity tools for my everyday use )</i>
+- Server side API's which work in conjunction with a frontend <i>( Currently using Kotlin and/or Node )</i>
+ <br/>
   <br/>
 
 ### Favorite Stuff to work with for any application
