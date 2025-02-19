@@ -19,7 +19,7 @@
 ### Favorite things to build during self-study
 
 - Command Line Tools ( Node/Python )
-- Server side API's which work in conjunction with a frontend
+- Server side API's which work in conjunction with a frontend or hardware
 
 ### Favorite Stuff to work with for any application
 
