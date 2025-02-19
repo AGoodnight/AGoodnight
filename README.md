@@ -33,6 +33,15 @@
 - Cucumber
 </pre>
 
+### New to me, Excited to do more
+
+<pre>
+- Svelte
+- Kotlin
+- PyTorch
+- Pandas
+</pre>
+
 ### All other tech knowledge
 
 <pre>
