@@ -18,8 +18,8 @@
 
 ### Favorite things to build during self-study
 
-- Command Line Tools ( Node/Python ) <i>( Creating productivity tools for my everyday use )</i>
-- Server side API's which work in conjunction with a frontend <i>( Currently using Kotlin, Python and/or Node )</i>
+- Command Line Tools ( Node/Python )
+- Server side API's which work in conjunction with a frontend
 
 ### Favorite Stuff to work with for any application
 
