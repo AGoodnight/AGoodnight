@@ -1,8 +1,8 @@
 ## About Me
 
-### Current Work
+### Current Day Job
 
-- Developing user facing software for Automobiles.
+- Developing user facing software for Automobiles
 
 ### Past Work
 
@@ -16,12 +16,12 @@
 - Practical Cryptography for server side security 
 - Understanding the fundamentals of AI <i>( Such as Neural Networks, Data Cleaning, and Statistical Analysis )</i>
 
-### Favorite things to build during self-study
+### Favorite Extracurricular
 
 - Command Line Tools ( Node/Python )
 - Server side API's which work in conjunction with a frontend or hardware
 
-### Favorite Stuff to work with for any application
+### Go to tech stack
 
 <pre>
 - Typescript/Node 
