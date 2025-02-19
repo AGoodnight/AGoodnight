@@ -14,12 +14,12 @@
 ### Current Dives
 
 - Practical Cryptography for server side security 
-- Understanding the fundamentals of AI <i>( Such as Neural Networks and Regression Statistical Analysis )</i>
+- Understanding the fundamentals of AI <i>( Such as Neural Networks, Data Cleaning, and Statistical Analysis )</i>
 
 ### Favorite things to build during self-study
 
-- Command Line Tools <i>( Creating productivity tools for my everyday use )</i>
-- Server side API's which work in conjunction with a frontend <i>( Currently using Kotlin and/or Node )</i>
+- Command Line Tools ( Node/Python ) <i>( Creating productivity tools for my everyday use )</i>
+- Server side API's which work in conjunction with a frontend <i>( Currently using Kotlin, Python and/or Node )</i>
 
 ### Favorite Stuff to work with for any application
 
