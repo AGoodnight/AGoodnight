@@ -19,7 +19,7 @@
 ### Favorite Extracurricular
 
 - Command Line Tools ( Node/Python )
-- Server side API's which work in conjunction with a frontend or hardware
+- Full Stack Applications ( Frontend + API + Database )
 
 ### Go to tech stack
 
