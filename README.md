@@ -14,6 +14,7 @@
 ### Current Dives
 
 - Practical Cryptography for server side security 
+- Golang for server/cli
 - Understanding the fundamentals of AI <i>( Such as Neural Networks, Data Cleaning, and Statistical Analysis )</i>
 
 ### Favorite Extracurricular
