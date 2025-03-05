@@ -14,8 +14,8 @@
 ### Current Dives
 
 - Practical Cryptography for server side security 
-- Golang for server/cli
-- Understanding the fundamentals of AI <i>( Such as Neural Networks, Data Cleaning, and Statistical Analysis )</i>
+- Golang for server/cli ( [example]("https://github.com/AGoodnight/go-dungeon") )
+- Understanding the fundamentals of AI <i>( Such as Neural Networks, Data Cleaning, and Statistical Analysis ) ( [linear regression example]("https://github.com/AGoodnight/Svelte-Line-Fitting") )</i>
 
 ### Favorite Extracurricular
 
